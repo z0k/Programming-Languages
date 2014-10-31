@@ -1,0 +1,5 @@
+val test6 = get_nth(["hi", "there", "how", "are", "you"], 2) = "there"
+val test_get_nth_1 = get_nth(["hi", "there", "how", "are", "you"], 5) = "you"
+val test_get_nth_2 = get_nth(["one"], 1) = "one"
+val test_get_nth_3 = get_nth(["hi", "there", "how", "are", "you"], 3) = "how"
+val test_get_nth_4 = get_nth(["hi", "there", "how", "are", "you"], 4) = "are"

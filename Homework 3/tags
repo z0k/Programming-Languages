@@ -1,0 +1,1 @@
+foldl	hw3provided.sml	/^	  | TupleP ps         => List.foldl (fn (p,i) => /
